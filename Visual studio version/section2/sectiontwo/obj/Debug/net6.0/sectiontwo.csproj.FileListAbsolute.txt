@@ -1,0 +1,15 @@
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\bin\Debug\net6.0\sectiontwo.exe
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\bin\Debug\net6.0\sectiontwo.deps.json
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\bin\Debug\net6.0\sectiontwo.runtimeconfig.json
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\bin\Debug\net6.0\sectiontwo.dll
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\bin\Debug\net6.0\sectiontwo.pdb
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\obj\Debug\net6.0\sectiontwo.csproj.AssemblyReference.cache
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\obj\Debug\net6.0\sectiontwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\obj\Debug\net6.0\sectiontwo.AssemblyInfoInputs.cache
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\obj\Debug\net6.0\sectiontwo.AssemblyInfo.cs
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\obj\Debug\net6.0\sectiontwo.csproj.CoreCompileInputs.cache
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\obj\Debug\net6.0\sectiontwo.dll
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\obj\Debug\net6.0\refint\sectiontwo.dll
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\obj\Debug\net6.0\sectiontwo.pdb
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\obj\Debug\net6.0\sectiontwo.genruntimeconfig.cache
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section2\sectiontwo\obj\Debug\net6.0\ref\sectiontwo.dll

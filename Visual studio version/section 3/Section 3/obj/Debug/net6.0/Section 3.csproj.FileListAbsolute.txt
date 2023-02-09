@@ -1,0 +1,15 @@
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\obj\Debug\net6.0\Section 3.csproj.AssemblyReference.cache
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\obj\Debug\net6.0\Section 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\obj\Debug\net6.0\Section 3.AssemblyInfoInputs.cache
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\obj\Debug\net6.0\Section 3.AssemblyInfo.cs
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\obj\Debug\net6.0\Section 3.csproj.CoreCompileInputs.cache
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\bin\Debug\net6.0\Section 3.exe
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\bin\Debug\net6.0\Section 3.deps.json
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\bin\Debug\net6.0\Section 3.runtimeconfig.json
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\bin\Debug\net6.0\Section 3.dll
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\bin\Debug\net6.0\Section 3.pdb
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\obj\Debug\net6.0\Section 3.dll
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\obj\Debug\net6.0\refint\Section 3.dll
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\obj\Debug\net6.0\Section 3.pdb
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\obj\Debug\net6.0\Section 3.genruntimeconfig.cache
+D:\coding\csharpCourses\csharpmasterclass\Visual studio version\section 3\Section 3\obj\Debug\net6.0\ref\Section 3.dll
