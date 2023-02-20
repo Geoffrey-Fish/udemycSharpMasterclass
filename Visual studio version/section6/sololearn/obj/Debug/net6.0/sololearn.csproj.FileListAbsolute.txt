@@ -1,0 +1,15 @@
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\bin\Debug\net6.0\sololearn.exe
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\bin\Debug\net6.0\sololearn.deps.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\bin\Debug\net6.0\sololearn.runtimeconfig.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\bin\Debug\net6.0\sololearn.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\bin\Debug\net6.0\sololearn.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\obj\Debug\net6.0\sololearn.csproj.AssemblyReference.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\obj\Debug\net6.0\sololearn.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\obj\Debug\net6.0\sololearn.AssemblyInfoInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\obj\Debug\net6.0\sololearn.AssemblyInfo.cs
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\obj\Debug\net6.0\sololearn.csproj.CoreCompileInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\obj\Debug\net6.0\sololearn.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\obj\Debug\net6.0\refint\sololearn.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\obj\Debug\net6.0\sololearn.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\obj\Debug\net6.0\sololearn.genruntimeconfig.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section6\sololearn\obj\Debug\net6.0\ref\sololearn.dll

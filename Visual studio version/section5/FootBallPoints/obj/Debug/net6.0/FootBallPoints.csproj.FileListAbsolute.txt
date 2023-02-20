@@ -1,0 +1,15 @@
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\obj\Debug\net6.0\FootBallPoints.csproj.AssemblyReference.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\obj\Debug\net6.0\FootBallPoints.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\obj\Debug\net6.0\FootBallPoints.AssemblyInfoInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\obj\Debug\net6.0\FootBallPoints.AssemblyInfo.cs
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\obj\Debug\net6.0\FootBallPoints.csproj.CoreCompileInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\bin\Debug\net6.0\FootBallPoints.exe
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\bin\Debug\net6.0\FootBallPoints.deps.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\bin\Debug\net6.0\FootBallPoints.runtimeconfig.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\bin\Debug\net6.0\FootBallPoints.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\bin\Debug\net6.0\FootBallPoints.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\obj\Debug\net6.0\FootBallPoints.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\obj\Debug\net6.0\refint\FootBallPoints.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\obj\Debug\net6.0\FootBallPoints.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\obj\Debug\net6.0\FootBallPoints.genruntimeconfig.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\FootBallPoints\obj\Debug\net6.0\ref\FootBallPoints.dll

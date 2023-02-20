@@ -1,0 +1,15 @@
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\bin\Debug\net6.0\AverageCalculator.exe
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\bin\Debug\net6.0\AverageCalculator.deps.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\bin\Debug\net6.0\AverageCalculator.runtimeconfig.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\bin\Debug\net6.0\AverageCalculator.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\bin\Debug\net6.0\AverageCalculator.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\obj\Debug\net6.0\AverageCalculator.csproj.AssemblyReference.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\obj\Debug\net6.0\AverageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\obj\Debug\net6.0\AverageCalculator.AssemblyInfoInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\obj\Debug\net6.0\AverageCalculator.AssemblyInfo.cs
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\obj\Debug\net6.0\AverageCalculator.csproj.CoreCompileInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\obj\Debug\net6.0\AverageCalculator.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\obj\Debug\net6.0\refint\AverageCalculator.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\obj\Debug\net6.0\AverageCalculator.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\obj\Debug\net6.0\AverageCalculator.genruntimeconfig.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\AverageCalculator\obj\Debug\net6.0\ref\AverageCalculator.dll

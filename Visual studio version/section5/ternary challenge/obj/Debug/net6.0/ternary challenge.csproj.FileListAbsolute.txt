@@ -1,0 +1,15 @@
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\bin\Debug\net6.0\ternary challenge.exe
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\bin\Debug\net6.0\ternary challenge.deps.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\bin\Debug\net6.0\ternary challenge.runtimeconfig.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\bin\Debug\net6.0\ternary challenge.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\bin\Debug\net6.0\ternary challenge.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\obj\Debug\net6.0\ternary challenge.csproj.AssemblyReference.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\obj\Debug\net6.0\ternary challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\obj\Debug\net6.0\ternary challenge.AssemblyInfoInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\obj\Debug\net6.0\ternary challenge.AssemblyInfo.cs
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\obj\Debug\net6.0\ternary challenge.csproj.CoreCompileInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\obj\Debug\net6.0\ternary challenge.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\obj\Debug\net6.0\refint\ternary challenge.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\obj\Debug\net6.0\ternary challenge.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\obj\Debug\net6.0\ternary challenge.genruntimeconfig.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\section5\ternary challenge\obj\Debug\net6.0\ref\ternary challenge.dll
