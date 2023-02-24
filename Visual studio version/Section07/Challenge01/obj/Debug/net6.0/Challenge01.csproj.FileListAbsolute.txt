@@ -1,0 +1,15 @@
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\bin\Debug\net6.0\Challenge01.exe
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\bin\Debug\net6.0\Challenge01.deps.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\bin\Debug\net6.0\Challenge01.runtimeconfig.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\bin\Debug\net6.0\Challenge01.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\bin\Debug\net6.0\Challenge01.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\obj\Debug\net6.0\Challenge01.csproj.AssemblyReference.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\obj\Debug\net6.0\Challenge01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\obj\Debug\net6.0\Challenge01.AssemblyInfoInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\obj\Debug\net6.0\Challenge01.AssemblyInfo.cs
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\obj\Debug\net6.0\Challenge01.csproj.CoreCompileInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\obj\Debug\net6.0\Challenge01.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\obj\Debug\net6.0\refint\Challenge01.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\obj\Debug\net6.0\Challenge01.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\obj\Debug\net6.0\Challenge01.genruntimeconfig.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\Challenge01\obj\Debug\net6.0\ref\Challenge01.dll
