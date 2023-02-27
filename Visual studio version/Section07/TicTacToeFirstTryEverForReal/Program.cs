@@ -32,61 +32,122 @@ namespace section7
                 /* Logic Player one*/
                 printMap(gameField);
                 WriteLine();
-
                 gameField = playerOne(gameField);
                 /*Checking win condition*/
                 exit = MatchChecker.Checker(gameField,"X");
                 if(exit)
                     {
+                    printMap(gameField);
                     WriteLine("Player one won the game!!!\n" +
                         "GG!");
+                    break;
+                    }
+                else
+                    {
                     WriteLine("_______________________________");
+                    }
 
-
-                    /* Logic Player two*/
+                /* Logic Player two*/
+                printMap(gameField);
+                WriteLine();
+                gameField = playerTwo(gameField);
+                /*Checking win condition*/
+                exit = MatchChecker.Checker(gameField,"O");
+                if(exit)
+                    {
                     printMap(gameField);
-                    WriteLine();
-
-                    gameField = playerTwo(gameField);
-                    /*Checking win condition*/
-                    exit = MatchChecker.Checker(gameField,"O");
-                    if(exit)
-                        {
-                        WriteLine("Player two won the game!!!\n" +
-                            "GG!");
-                        WriteLine("_______________________________");
-                        }
+                    WriteLine("Player two won the game!!!\n" +
+                        "GG!");
+                    break;
+                    }
+                else
+                    {
+                    WriteLine("_______________________________");
                     }
                 }
             }
 
 
-        public static string[,] playerOne(string[,] gameField)
 
+        public static string[,] playerOne(string[,] gameField)
             {
-            WriteLine("Player one, pick a number!");
-            Write("==> ");
-            string? input1 = ReadLine();
-            int i = Convert.ToInt32(a);
-            if(i < 0 || i > 9)
+            bool availability = false;
+            bool exit = false;
+
+            while(exit == false)
                 {
-                WriteLine("Number too big or small.");
+                WriteLine("Player one, pick a number!");
+                Write("==> ");
+                string? input1 = ReadLine();
+                int i = Convert.ToInt32(input1);
+
+                if(i <= 0 || i > 9)
+                    {
+                    WriteLine("Number too big or small,Dude,come on!");
+                    }
+                else
+                    {
+                    foreach(string x in gameField)
+                        {
+                        availability = x.Contains(input1);
+
+                        if(availability)
+                            {
+                            exit = true;
+                            return Replacement(gameField,i,'X');
+                            }
+                        else
+                            {
+                            continue;
+                            }
+                        }
+                    WriteLine("Number allready taken!Please try again!");
+                    }
                 }
-            return Replacement(gameField,i,'X');
+            WriteLine(" Something mishappen with player one");
+            return gameField;
+
             }
 
 
         public static string[,] playerTwo(string[,] gameField)
             {
-            WriteLine("Player two, pick a number!");
-            Write("==> ");
-            string? input2 = ReadLine();
-            int i = Convert.ToInt32(a);
-            if(i < 0 || i > 9)
+            bool availability = false;
+            bool exit = false;
+
+            while(exit == false)
                 {
-                WriteLine("Number too big or small,Dude,come on!");
+                WriteLine("Player two, pick a number!");
+                Write("==> ");
+                string? input2 = ReadLine();
+                int i = Convert.ToInt32(input2);
+
+                if(i <= 0 || i > 9)
+                    {
+                    WriteLine("Number too big or small,Dude,come on!");
+                    }
+                else
+                    {
+                    foreach(string x in gameField)
+                        {
+                        availability = x.Contains(input2);
+
+                        if(availability)
+                            {
+                            exit = true;
+                            return Replacement(gameField,i,'O');
+                            }
+                        else
+                            {
+                            continue;
+                            }
+                        }
+                    WriteLine("Number allready taken!Please try again!");
+                    continue;
+                    }
                 }
-            return Replacement(gameField,i,'O');
+            WriteLine(" Something mishappen with player two");
+            return gameField;
             }
 
 
@@ -129,12 +190,9 @@ namespace section7
                 default:
                     WriteLine("Sumting Wong");
                     break;
-
                 }
             return a;
-
             }
-
 
         /// <summary>
         /// print the gamefield
