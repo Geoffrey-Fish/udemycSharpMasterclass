@@ -1,0 +1,15 @@
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\obj\Debug\net6.0\TicTacToeFirstTryEverForReal.csproj.AssemblyReference.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\obj\Debug\net6.0\TicTacToeFirstTryEverForReal.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\obj\Debug\net6.0\TicTacToeFirstTryEverForReal.AssemblyInfoInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\obj\Debug\net6.0\TicTacToeFirstTryEverForReal.AssemblyInfo.cs
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\obj\Debug\net6.0\TicTacToeFirstTryEverForReal.csproj.CoreCompileInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\bin\Debug\net6.0\TicTacToeFirstTryEverForReal.exe
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\bin\Debug\net6.0\TicTacToeFirstTryEverForReal.deps.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\bin\Debug\net6.0\TicTacToeFirstTryEverForReal.runtimeconfig.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\bin\Debug\net6.0\TicTacToeFirstTryEverForReal.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\bin\Debug\net6.0\TicTacToeFirstTryEverForReal.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\obj\Debug\net6.0\TicTacToeFirstTryEverForReal.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\obj\Debug\net6.0\refint\TicTacToeFirstTryEverForReal.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\obj\Debug\net6.0\TicTacToeFirstTryEverForReal.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\obj\Debug\net6.0\TicTacToeFirstTryEverForReal.genruntimeconfig.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\TicTacToeFirstTryEverForReal\obj\Debug\net6.0\ref\TicTacToeFirstTryEverForReal.dll
