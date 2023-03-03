@@ -7,9 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge01", "Challenge01\Challenge01.csproj", "{147FD881-2FA8-48E9-BFD1-45E688FAC06F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeWinnerIdentifier", "TicTacToeWinnerIdentifier\TicTacToeWinnerIdentifier.csproj", "{2249AAD3-C3A3-44BE-A17A-94AECFE3CAFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeWinnerIdentifier", "TicTacToeWinnerIdentifier\TicTacToeWinnerIdentifier.csproj", "{2249AAD3-C3A3-44BE-A17A-94AECFE3CAFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeFirstTryEverForReal", "TicTacToeFirstTryEverForReal\TicTacToeFirstTryEverForReal.csproj", "{475A00E1-034E-4DDE-AD08-B7CEED7E7FC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeFirstTryEverForReal", "TicTacToeFirstTryEverForReal\TicTacToeFirstTryEverForReal.csproj", "{475A00E1-034E-4DDE-AD08-B7CEED7E7FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrays", "JaggedArrays\JaggedArrays.csproj", "{00A94229-B1B8-409C-8B70-3FDF7719E65B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAsParameters", "ArraysAsParameters\ArraysAsParameters.csproj", "{F24D35F6-C14A-4B96-8641-D5790B95B46C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamsExample", "ParamsExample\ParamsExample.csproj", "{223A10AF-A1E4-401C-B892-31193499FA4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{475A00E1-034E-4DDE-AD08-B7CEED7E7FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{475A00E1-034E-4DDE-AD08-B7CEED7E7FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{475A00E1-034E-4DDE-AD08-B7CEED7E7FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A94229-B1B8-409C-8B70-3FDF7719E65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A94229-B1B8-409C-8B70-3FDF7719E65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A94229-B1B8-409C-8B70-3FDF7719E65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A94229-B1B8-409C-8B70-3FDF7719E65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24D35F6-C14A-4B96-8641-D5790B95B46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24D35F6-C14A-4B96-8641-D5790B95B46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24D35F6-C14A-4B96-8641-D5790B95B46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24D35F6-C14A-4B96-8641-D5790B95B46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223A10AF-A1E4-401C-B892-31193499FA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223A10AF-A1E4-401C-B892-31193499FA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223A10AF-A1E4-401C-B892-31193499FA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223A10AF-A1E4-401C-B892-31193499FA4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

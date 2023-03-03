@@ -1,0 +1,15 @@
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\bin\Debug\net6.0\ParamsExample.exe
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\bin\Debug\net6.0\ParamsExample.deps.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\bin\Debug\net6.0\ParamsExample.runtimeconfig.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\bin\Debug\net6.0\ParamsExample.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\bin\Debug\net6.0\ParamsExample.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\obj\Debug\net6.0\ParamsExample.csproj.AssemblyReference.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\obj\Debug\net6.0\ParamsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\obj\Debug\net6.0\ParamsExample.AssemblyInfoInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\obj\Debug\net6.0\ParamsExample.AssemblyInfo.cs
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\obj\Debug\net6.0\ParamsExample.csproj.CoreCompileInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\obj\Debug\net6.0\ParamsExample.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\obj\Debug\net6.0\refint\ParamsExample.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\obj\Debug\net6.0\ParamsExample.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\obj\Debug\net6.0\ParamsExample.genruntimeconfig.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ParamsExample\obj\Debug\net6.0\ref\ParamsExample.dll

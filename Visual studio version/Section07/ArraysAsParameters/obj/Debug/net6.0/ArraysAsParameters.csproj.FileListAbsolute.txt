@@ -1,0 +1,15 @@
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.exe
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.deps.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.runtimeconfig.json
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.csproj.AssemblyReference.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.AssemblyInfoInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.AssemblyInfo.cs
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.csproj.CoreCompileInputs.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\obj\Debug\net6.0\refint\ArraysAsParameters.dll
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.pdb
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.genruntimeconfig.cache
+D:\GitHub\udemycSharpMasterclass\Visual studio version\Section07\ArraysAsParameters\obj\Debug\net6.0\ref\ArraysAsParameters.dll

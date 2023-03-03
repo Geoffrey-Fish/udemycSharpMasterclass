@@ -44,7 +44,7 @@ namespace section7
                     }
                 else
                     {
-                    WriteLine("_______________________________");
+                    WriteLine("_____________Dolphin__________________");
                     }
 
                 /* Logic Player two*/
@@ -62,7 +62,7 @@ namespace section7
                     }
                 else
                     {
-                    WriteLine("_______________________________");
+                    WriteLine("____________Dolphin___________________");
                     }
                 }
             }
